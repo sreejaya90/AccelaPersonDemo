@@ -1,0 +1,10 @@
+com\application\repository\AddressRepository.class
+com\application\controller\PersonController.class
+com\application\repository\PersonRepository.class
+com\application\controller\AddressController.class
+com\application\dao\PersonDao.class
+com\application\controller\ApplicationStarter.class
+com\application\dao\AddressDao.class
+com\application\customExceptions\ResourceNotFoundException.class
+com\application\entity\Person.class
+com\application\entity\Address.class
